@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81ffc32850a1e7d3",
+        "id": "4aad0e81dff1bf1e",
         "type": "tabs",
         "children": [
           {
-            "id": "513c69fe5c336a87",
+            "id": "8059774eec23b780",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 General Skills/20-First Find.md",
+                "file": "PicoCTF/Competencia 2026/Piece by Piece.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20-First Find"
+              "title": "Piece by Piece"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Sin título.md",
+                "file": "PicoCTF/General Skills Tarea/10-ASCII Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Sin título"
+              "title": "Enlaces entrantes de 10-ASCII Numbers"
             }
           },
           {
@@ -183,35 +183,41 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "513c69fe5c336a87",
+  "active": "8059774eec23b780",
   "lastOpenFiles": [
-    "PicoCTF/Plantilla.md",
-    "PicoCTF/01 General Skills/20-First Find.md",
-    "PicoCTF/01 General Skills/19-Big Zip.md",
-    "PicoCTF/01 General Skills/18-repetitions.md",
-    "PicoCTF/01 General Skills/17-Magikarp Ground Mission.md",
-    "PicoCTF/01 General Skills/16-Tab, Tab, Attack.md",
-    "PicoCTF/01 General Skills/15-useless.md",
-    "PicoCTF/01 General Skills/14-Static ain't always noise.md",
-    "PicoCTF/01 General Skills/13-Wave a flag.md",
-    "README.md",
-    "PicoCTF/01 General Skills/12-strings it.md",
-    "PicoCTF/01 General Skills/11-Based.md",
-    "PicoCTF/01 General Skills/7-what's a net cat.md",
-    "PicoCTF/01 General Skills/4-Bases.md",
-    "PicoCTF/01 General Skills/1-Lets Warm Up.md",
-    "PicoCTF/01 General Skills/2-2warm.md",
-    "PicoCTF/01 General Skills/3-Warmed Up.md",
-    "PicoCTF/01 General Skills/9-Glitch Cat.md",
-    "PicoCTF/01 General Skills/10-Nice netcat....md",
-    "PicoCTF/01 General Skills/8-plumbing.md",
-    "PicoCTF/01 General Skills/6-Obedient Cat.md",
-    "PicoCTF/01 General Skills/5-First Grep.md",
+    "PicoCTF/Competencia 2026/ping-cmd.md",
+    "PicoCTF/Competencia 2026/Printer Shares.md",
+    "PicoCTF/Competencia 2026/SUDO MAKE ME A SANDWICH.md",
+    "PicoCTF/Competencia 2026/Undo.md",
+    "Sin título.md",
+    "2026-03-18.md",
+    "PicoCTF/Competencia 2026/bytemancy 1.md",
+    "PicoCTF/Competencia 2026/Piece by Piece.md",
+    "PicoCTF/Competencia 2026/KSECRETS.md",
+    "PicoCTF/Competencia 2026/Password Profile.md",
+    "PicoCTF/Competencia 2026/bytemancy 0.md",
+    "PicoCTF/Competencia 2026/MY GIT.md",
+    "PicoCTF/web/6-Client-side-again.md",
+    "PicoCTF/Competencia 2026",
+    "PicoCTF/web/5-picobrowser.md",
+    "PicoCTF/web/4-dont-use-client-side.md",
+    "PicoCTF/plantilla/Plantilla Pico.md",
     "Sin título.base",
+    "PicoCTF/General Skills Tarea/10-ASCII Numbers.md",
+    "PicoCTF/General Skills Tarea/9-binhexa.md",
+    "PicoCTF/General Skills Tarea/8-binary search.md",
+    "PicoCTF/General Skills Tarea/7-Collaborative Development.md",
+    "PicoCTF/General Skills Tarea/6-blame game.md",
+    "PicoCTF/General Skills Tarea/5-Time Machine.md",
+    "PicoCTF/General Skills Tarea/4-Commitment Issues.md",
     "PicoCTF/Sin título.md",
-    "PicoCTF/01 General Skills/l.md",
+    "PicoCTF/plantilla",
+    "PicoCTF/General Skills Tarea/3-special.md",
+    "PicoCTF/General Skills Tarea/2-chrono.md",
+    "PicoCTF/General Skills Tarea",
+    "PicoCTF/web",
     "Sin título.canvas",
-    "PicoCTF/01 General Skills",
+    "PicoCTF/General Skills",
     "PicoCTF"
   ]
 }
