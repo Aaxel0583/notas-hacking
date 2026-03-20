@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Competencia 2026/Piece by Piece.md",
+                "file": "PicoCTF/web/9-Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Piece by Piece"
+              "title": "9-Scavenger Hunt"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "8059774eec23b780",
   "lastOpenFiles": [
+    "PicoCTF/Competencia 2026/Piece by Piece.md",
+    "PicoCTF/web/9-Scavenger Hunt.md",
     "PicoCTF/Competencia 2026/ping-cmd.md",
     "PicoCTF/Competencia 2026/Printer Shares.md",
     "PicoCTF/Competencia 2026/SUDO MAKE ME A SANDWICH.md",
@@ -192,7 +194,6 @@
     "Sin título.md",
     "2026-03-18.md",
     "PicoCTF/Competencia 2026/bytemancy 1.md",
-    "PicoCTF/Competencia 2026/Piece by Piece.md",
     "PicoCTF/Competencia 2026/KSECRETS.md",
     "PicoCTF/Competencia 2026/Password Profile.md",
     "PicoCTF/Competencia 2026/bytemancy 0.md",
@@ -213,7 +214,6 @@
     "PicoCTF/Sin título.md",
     "PicoCTF/plantilla",
     "PicoCTF/General Skills Tarea/3-special.md",
-    "PicoCTF/General Skills Tarea/2-chrono.md",
     "PicoCTF/General Skills Tarea",
     "PicoCTF/web",
     "Sin título.canvas",
