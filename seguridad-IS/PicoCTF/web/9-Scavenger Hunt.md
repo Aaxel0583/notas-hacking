@@ -55,6 +55,8 @@ Cuando alguien desarrolla en una Mac y sube los archivos a un servidor, a veces 
 - Visita: `http://wily-courier.picoctf.net:64957/.DS_Store`
     
 - Aquí encontrarás la **Parte 6** y final.
+  
+  picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_9588550}
 ```
 ## Notas adicionales 
 uso de ia para mayor facilidad en encoontrar bandera 

@@ -53,8 +53,4 @@ picoCTF{uS1ng_v1m_3dit0r_89e9cf1a}
 # Connection to saturn.picoctf.net closed by remote host.
 Connection to saturn.picoctf.net closed.
 ```
-## Notas adicionales 
-
-## Referencias
-
 
