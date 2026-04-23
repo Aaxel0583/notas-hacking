@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3984757d1bd59514",
+            "id": "3989e09757d224aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Crypto/b00tl3gRSA3.md",
+                "file": "PicoCTF/Crypto/basic-mod1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b00tl3gRSA3"
+              "title": "basic-mod1"
             }
           }
         ]
@@ -183,17 +183,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3984757d1bd59514",
+  "active": "3989e09757d224aa",
   "lastOpenFiles": [
-    "PicoCTF/Crypto/b00tl3gRSA2.md",
-    "PicoCTF/Crypto/b00tl3gRSA3.md",
+    "PicoCTF/Crypto/Flags.md",
+    "PicoCTF/Crypto/HideToSee.md",
+    "PicoCTF/Crypto/ReadMyCert.md",
     "PicoCTF/Crypto/Mind your Ps and Qs.md",
-    "PicoCTF/Crypto/Mini RSA.md",
-    "PicoCTF/Crypto/rsa-pop-quiz.md",
-    "PicoCTF/web/12-JaWT Scratchpad.md",
-    "PicoCTF/Crypto",
+    "PicoCTF/Crypto/basic-mod1.md",
+    "PicoCTF/Crypto/Pixelated.md",
+    "PicoCTF/Examen 1/Web/1-Bookmarklet.md",
+    "PicoCTF/Competencia 2026/bytemancy 0.md",
     "PicoCTF/web/10-Irish-Name-Repo 1.md",
     "PicoCTF/web/11-More SQLi.md",
+    "PicoCTF/web/12-JaWT Scratchpad.md",
+    "PicoCTF/Crypto/b00tl3gRSA3.md",
+    "PicoCTF/Crypto/b00tl3gRSA2.md",
+    "PicoCTF/Crypto/Mini RSA.md",
+    "PicoCTF/Crypto/rsa-pop-quiz.md",
+    "PicoCTF/Crypto",
     "PicoCTF/Examen 1/Web/8-SSTI2.md",
     "PicoCTF/Examen 1/Web/7-SQL Direct.md",
     "PicoCTF/Examen 1/Web/6-Java Code Analysis.md",
@@ -201,19 +208,12 @@
     "PicoCTF/Examen 1/Web/4-SSTI1.md",
     "PicoCTF/Examen 1/Web/3-head-dump.md",
     "PicoCTF/Examen 1/Web/2-Cookie Monster Secret Recipe.md",
-    "PicoCTF/Examen 1/Web/1-Bookmarklet.md",
     "PicoCTF/Examen 1/General skills/1-FANTASY CTF.md",
     "PicoCTF/Examen 1/Web",
     "PicoCTF/Examen 1.zip",
     "PicoCTF/Examen 1/General skills/5-Rust fixme 3.md",
     "PicoCTF/Examen 1/General skills/10-Specialer.md",
     "PicoCTF/Examen 1/General skills/9-SansAlpha.md",
-    "PicoCTF/Examen 1/General skills/8-Python Wrangling.md",
-    "PicoCTF/Examen 1/General skills/7-flag_shop.md",
-    "PicoCTF/Examen 1/General skills/6-dont-you-love-banners.md",
-    "PicoCTF/Examen 1/General skills/4-Rust fixme 2.md",
-    "PicoCTF/Examen 1/General skills/3-Rust fixme 1.md",
-    "PicoCTF/Examen 1/General skills/2-HashingJobApp.md",
     "PicoCTF/Examen 1/General skills",
     "PicoCTF/Examen 1",
     "PicoCTF/Forensic",
